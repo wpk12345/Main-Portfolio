@@ -1,0 +1,91 @@
+
+#logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#greyBar {
+    height: 30px;
+    background-color: grey;
+}
+
+#whiteBar {
+    height: 30px;
+    background-color:rgb(221, 227, 230);
+}
+
+.trapezoid {
+	border-bottom: 30px solid #363636;
+	border-left: 15px solid transparent;
+	border-right: 15px solid transparent;
+	height: 0;
+    width: 160px;
+    margin-left: 40px;
+}
+
+#tag {
+    padding-top: 5px;
+    padding-left: 5px;
+}
+#aside {
+    background-color:rgb(221, 227, 230);
+    height: 1024px;
+}
+
+#test {
+    height:25px;
+    text-align: center;
+    font-family: 'Archivo Black', sans-serif;
+    color:grey;
+}
+
+li:hover {
+    background-color:rgb(173, 166, 166);
+}
+.file {
+    background-color: grey;
+    margin-left: 10px;
+}
+.whiteText {
+    color:white;
+}
+.greenText {
+    color:rgb(129, 187, 36);
+}
+
+.darkYellowText {
+    color:#cfbc59
+}
+.pinkText {
+    color: #d72a6b;
+}
+
+.greyText {
+    color: grey;
+}
+
+h1, h2 {
+    text-align: center;
+}
+#intro {
+    display:inline;
+}
+#indent {
+    margin-left: 10px
+}
+#title {
+    margin-left: 30px;
+}
+
+h4 {
+    margin-top: 0px;
+}
+body {
+    background-color:#363636
+}
+
+
+header {
+    background-color: white;
+}
