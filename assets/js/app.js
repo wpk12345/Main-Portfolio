@@ -58,4 +58,6 @@ $(document).ready(function () {
     $("#hthirtyone").hide(0).delay(9600).show(0);
     $("#hthirtytwo").hide(0).delay(9900).show(0);
     $("#hthirtythree").hide(0).delay(10200).show(0);
+
+    $(".btn").hide(0).delay(11000).show(0);
 });
